@@ -1,6 +1,6 @@
-seguridad_en_un_juez_de_maratones
-=================================
+## Seguridad en un juez de maratones de programación
+
 
 ( Charla ) Barcamp Security Edition 2013 Pereira
 
-Manuel Pineda - Jhon Jimenez
+#### Manuel Pineda - Jhon Jimenez
